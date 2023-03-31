@@ -11,4 +11,4 @@ Pasos para ejecutar proyecto:
 1. Ejecutar `npm run build`
 2. Tomar la carpeta `dist` y desplegarla
 3. holassss
-4. holas 3
+4. holas
